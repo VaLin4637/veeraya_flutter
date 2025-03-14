@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527943144730",
+    "project_id": "veeraya-abe9c",
+    "storage_bucket": "veeraya-abe9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527943144730:android:648ea01a45bfa9fb9088a3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_veeraya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BBluFUZodKfGxtxhE4rmGKL8zuKqN-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
